@@ -1,0 +1,31 @@
+body {
+    background-color:#556B2F;
+}
+.main_titles {
+    font-weight: bold;
+    font-family: Arial;
+    text-align: center;
+    padding: 50px, 75px;
+    margin: 50px;
+}
+#primary_title {
+    font-size: 80px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 75px, 100px;
+}
+#units {
+    color:#00FF00;
+    font-family: Arial;
+}
+main {
+    border-style: solid;
+    border-width: 5px;
+    padding: 75px, 100px;
+    margin: 75px;
+    
+}
+#secondary_titles {
+    font-size: 50px;
+
+}
