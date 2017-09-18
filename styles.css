@@ -12,14 +12,23 @@ body {
     font-size: 80px;
     border-style: solid;
     border-width: 5px;
-    padding: 75px, 100px;
+    border-color: cornsilk;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 #units {
     color:#00FF00;
     font-family: Arial;
+    font-weight: bold;
+    padding: 40px, 60px;
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 main {
-    border-style: solid;
+    border-style: hidden;
     border-width: 5px;
     padding: 75px, 100px;
     margin: 75px;
@@ -27,5 +36,51 @@ main {
 }
 #secondary_titles {
     font-size: 50px;
+    color: cornsilk;
+    margin-top: 200px;
+    margin-bottom: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
 
+
+}
+.articles {
+    border: solid;
+    border-color: cornsilk;
+    border-width: 5px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
+#article_titles {
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    text-align: center;
+    margin-top: 90px;
+    
+
+}
+#paragraphs {
+    text-align: justify;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 50px, 75px;
+
+}
+.unit_header {
+    font-weight: bold;
+    font-size: 20px;
+}
+img {
+    text-align: center;
+    border: solid;
+    border-width: 4px;
 }
